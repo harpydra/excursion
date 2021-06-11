@@ -1,0 +1,39 @@
+#title {
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    position: center;
+    
+}
+
+a {
+    color: aquamarine;
+    font-family: verdana;
+    font-size: 16px;
+}
+
+* {
+    background-color: black;
+    text-align: center;
+}
+
+.description {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.head {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#copyright {
+    font-size: 32px;
+    font-family: normal;
+    text-align: right;
+    color: gray;
+}
